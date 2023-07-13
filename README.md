@@ -1,1 +1,2 @@
-# go-trial-class
+# Workshop-MECG-Part-1
+
